@@ -1,0 +1,1 @@
+import{c as t,ae as a,I as r,D as s}from"./chunks/framework.JwtSsSoB.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"角色/唐僧/1.md","filePath":"角色/唐僧/1.md"}'),n={name:"角色/唐僧/1.md"};function o(c,e,p,d,l,i){return a(),r("div",null,[...e[0]||(e[0]=[s("p",null,"1",-1)])])}const f=t(n,[["render",o]]);export{_ as __pageData,f as default};
