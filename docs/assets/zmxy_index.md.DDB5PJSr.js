@@ -1,0 +1,1 @@
+import{c as e,a1 as t,s as a}from"./chunks/framework.b_EpME9u.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/index.md","filePath":"zmxy/index.md"}'),n={name:"zmxy/index.md"};function r(s,o,c,d,i,m){return t(),a("div")}const _=e(n,[["render",r]]);export{x as __pageData,_ as default};

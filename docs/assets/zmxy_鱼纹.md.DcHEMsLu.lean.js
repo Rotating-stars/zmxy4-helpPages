@@ -1,0 +1,1 @@
+import{c as e,a1 as t,s as a}from"./chunks/framework.b_EpME9u.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/鱼纹.md","filePath":"zmxy/鱼纹.md"}'),r={name:"zmxy/鱼纹.md"};function s(o,c,n,m,_,p){return t(),a("div")}const f=e(r,[["render",s]]);export{i as __pageData,f as default};
