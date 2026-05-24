@@ -1,0 +1,1 @@
+import{c as e,ae as t,I as a}from"./chunks/framework.JwtSsSoB.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/戒指.md","filePath":"zmxy/戒指.md"}'),r={name:"zmxy/戒指.md"};function o(s,c,n,m,_,p){return t(),a("div")}const f=e(r,[["render",o]]);export{i as __pageData,f as default};
