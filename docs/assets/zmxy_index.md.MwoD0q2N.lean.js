@@ -1,1 +1,0 @@
-import{c as e,ae as t,I as a}from"./chunks/framework.JwtSsSoB.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/index.md","filePath":"zmxy/index.md"}'),n={name:"zmxy/index.md"};function r(o,s,c,d,i,m){return t(),a("div")}const _=e(n,[["render",r]]);export{x as __pageData,_ as default};
