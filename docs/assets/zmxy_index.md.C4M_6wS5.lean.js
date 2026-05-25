@@ -1,0 +1,1 @@
+import{c as e,ap as t,V as a}from"./chunks/framework.BGNhDzpa.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/index.md","filePath":"zmxy/index.md","lastUpdated":1779731263000}'),n={name:"zmxy/index.md"};function r(s,d,o,c,i,p){return t(),a("div")}const _=e(n,[["render",r]]);export{x as __pageData,_ as default};
