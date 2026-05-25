@@ -1,1 +1,0 @@
-import{c as t,an as a,S as r,O as n}from"./chunks/framework.Dc4E4eQ2.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"角色/玉兔/1.md","filePath":"角色/玉兔/1.md"}'),s={name:"角色/玉兔/1.md"};function o(c,e,p,d,l,i){return a(),r("div",null,[...e[0]||(e[0]=[n("p",null,"1",-1)])])}const f=t(s,[["render",o]]);export{_ as __pageData,f as default};

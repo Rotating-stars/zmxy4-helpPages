@@ -1,0 +1,1 @@
+import{c as e,an as t,S as a}from"./chunks/framework.Dc4E4eQ2.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/index.md","filePath":"zmxy/index.md","lastUpdated":0}'),n={name:"zmxy/index.md"};function r(s,d,o,c,i,m){return t(),a("div")}const _=e(n,[["render",r]]);export{x as __pageData,_ as default};
