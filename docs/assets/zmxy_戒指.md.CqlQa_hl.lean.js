@@ -1,1 +1,0 @@
-import{c as e,ap as t,V as a}from"./chunks/framework.BGNhDzpa.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/戒指.md","filePath":"zmxy/戒指.md","lastUpdated":1779731263000}'),r={name:"zmxy/戒指.md"};function s(o,c,n,p,d,m){return t(),a("div")}const f=e(r,[["render",s]]);export{i as __pageData,f as default};
