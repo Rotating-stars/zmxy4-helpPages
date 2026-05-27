@@ -1,1 +1,0 @@
-import{c as t,aY as e,at as a}from"./chunks/framework.C19wfex6.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/戒指.md","filePath":"zmxy/戒指.md","lastUpdated":1779731263000}'),r={name:"zmxy/戒指.md"};function s(o,c,n,d,m,p){return e(),a("div")}const f=t(r,[["render",s]]);export{i as __pageData,f as default};
