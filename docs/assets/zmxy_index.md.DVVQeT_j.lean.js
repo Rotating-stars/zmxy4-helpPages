@@ -1,0 +1,1 @@
+import{c as e,b5 as t,aC as a}from"./chunks/framework.CHP6_p9p.js";const x=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/index.md","filePath":"zmxy/index.md","lastUpdated":1779731263000}'),n={name:"zmxy/index.md"};function r(s,d,o,c,i,m){return t(),a("div")}const _=e(n,[["render",r]]);export{x as __pageData,_ as default};
