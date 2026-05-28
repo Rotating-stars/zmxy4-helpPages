@@ -1,0 +1,1 @@
+import{c as e,b3 as t,aA as a}from"./chunks/framework.C44IZsdK.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"order":0},"headers":[],"relativePath":"地图/index.md","filePath":"地图/index.md","lastUpdated":1779731263000}'),r={name:"地图/index.md"};function n(d,o,s,c,i,p){return t(),a("div")}const f=e(r,[["render",n]]);export{m as __pageData,f as default};
