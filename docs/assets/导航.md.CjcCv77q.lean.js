@@ -1,0 +1,1 @@
+import{c as e,b8 as t,aF as r,aI as h}from"./chunks/framework.BAkYmNXQ.js";const f=JSON.parse('{"title":"导航","description":"","frontmatter":{},"headers":[],"relativePath":"导航.md","filePath":"导航.md","lastUpdated":0}'),n={name:"导航.md"};function d(i,a,l,s,o,_){return t(),r("div",null,[...a[0]||(a[0]=[h("",4)])])}const m=e(n,[["render",d]]);export{f as __pageData,m as default};
