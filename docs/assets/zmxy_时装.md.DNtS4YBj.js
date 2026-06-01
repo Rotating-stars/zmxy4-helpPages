@@ -1,0 +1,1 @@
+import{c as e,bn as t,aU as a}from"./chunks/framework.BZ6QiwKG.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zmxy/时装.md","filePath":"zmxy/时装.md","lastUpdated":1779731263000}'),r={name:"zmxy/时装.md"};function s(n,o,c,d,m,p){return t(),a("div")}const f=e(r,[["render",s]]);export{i as __pageData,f as default};
