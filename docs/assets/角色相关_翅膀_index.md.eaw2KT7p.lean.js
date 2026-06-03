@@ -1,0 +1,1 @@
+import{c as e,bm as t,aT as a}from"./chunks/framework.Bm8bfdVo.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"角色相关/翅膀/index.md","filePath":"角色相关/翅膀/index.md","lastUpdated":0}'),n={name:"角色相关/翅膀/index.md"};function r(s,d,o,c,i,p){return t(),a("div")}const f=e(n,[["render",r]]);export{_ as __pageData,f as default};
