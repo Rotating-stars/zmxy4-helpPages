@@ -1,0 +1,1 @@
+import{c as e,bM as t,bh as a}from"./chunks/framework.DXtQZ1HH.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"角色相关/翅膀/index.md","filePath":"角色相关/翅膀/index.md","lastUpdated":0}'),n={name:"角色相关/翅膀/index.md"};function r(s,d,o,c,i,p){return t(),a("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
