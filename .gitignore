@@ -143,5 +143,6 @@ vite.config.ts.timestamp-*
 .vite/
 
 add.bat
+commit.bat
 push.bat
 zmxy4/
