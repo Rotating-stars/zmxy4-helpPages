@@ -1,0 +1,1 @@
+import{c as e,b$ as t,bw as a}from"./chunks/framework.BDrijEN_.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"角色相关/时装/1.md","filePath":"角色相关/时装/1.md","lastUpdated":0}'),r={name:"角色相关/时装/1.md"};function s(o,c,n,d,p,_){return t(),a("div")}const f=e(r,[["render",s]]);export{m as __pageData,f as default};
